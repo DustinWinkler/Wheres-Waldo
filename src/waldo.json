@@ -1,0 +1,26 @@
+{
+  "Ski_Trip": {
+    "coords":{
+      "waldo": ["450px", "840px"],
+      "wenda": ["248px", "473px"],
+      "wizard": ["460px", "53px"],
+      "odlaw": ["385px", "302px"]
+    }
+  },
+  "The_Moon": {
+    "coords":{
+      "waldo": ["302px", "389px"],
+      "wenda": ["235px", "280px"],
+      "wizard": ["273px", "763px"],
+      "odlaw": ["348px", "55px"]
+    }
+  },
+  "The_Race_Track": {
+    "coords":{
+      "waldo": ["130px", "265px"],
+      "wenda": ["375px", "236px"],
+      "wizard": ["459px", "600px"],
+      "odlaw": ["325px", "582px"]
+    }
+  }
+}
